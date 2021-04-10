@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@hapi/hapi": "^20.1.2",
-    "lint": "eslint ./",
     "nanoid": "^3.1.22"
   },
   "devDependencies": {
