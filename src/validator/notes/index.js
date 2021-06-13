@@ -1,5 +1,4 @@
 const { NotePayloadSchema } = require('./schema');
-const { NotePayloadSchema } = require('./schema');
 
 const NotesValidator = {
     validateNotePayload: (payload) => {
