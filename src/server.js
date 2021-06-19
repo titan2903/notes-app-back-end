@@ -3,7 +3,7 @@ require('dotenv').config();
 
 //! Notes
 const notes = require('./api/notes');
-const NotesService = require('./services/postgres/UsersService');
+const NotesService = require('./services/postgres/NotesService');
 const NotesValidator = require('./validator/notes');
 
 //! Users
